@@ -1,10 +1,8 @@
 ### Hello World 👋
 ![masterhead](https://tenor.com/view/code-coding-programming-computer-science-programming-language-gif-16596559.gif)
-
-
 <h1 align="center">Hi 👋, I'm Abhijeet singh chib</h1>
 <h3 align="center">A passionate backend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="coding" width="400" src="https://bestanimations.com/media/computers/582512445funny-computer-animated-gif-53.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhijeetthakur007&label=Profile%20views&color=0e75b6&style=flat" alt="abhijeetthakur007" /> </p>
 
