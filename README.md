@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/abhijee59457988" target="blank"><img src="https://img.shields.io/twitter/follow/abhijee59457988?logo=twitter&style=for-the-badge" alt="abhijee59457988" /></a> </p>
 
-- 💬 Ask me about **HTML5,CSS,Javascript,PHP,SQL,JQUERY,Python**
+- 💬 Ask me about **HTML5,CSS,Bootstrap,Javascript,PHP,SQL,JQUERY,Python**
 
 - 📫 How to reach me **abhijeetthakur246142@gmail.com**
 
